@@ -1,0 +1,7 @@
+{
+  "name": "spike-maps-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
